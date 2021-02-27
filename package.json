@@ -1,0 +1,20 @@
+{
+  "name": "nostalgia-kira-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.20.0",
+    "eslint-config-tesseract": "0.0.3",
+    "glob": "^7.1.6",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shawn",
+  "license": "ISC"
+}
